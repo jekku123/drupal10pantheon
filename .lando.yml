@@ -1,0 +1,6 @@
+name: d10pantheon
+recipe: pantheon
+config:
+  framework: drupal8
+  site: d10pantheon
+  id: f08af279-165e-4d21-96fe-bb141f9bb839
